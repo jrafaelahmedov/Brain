@@ -119,6 +119,9 @@ public class MainActivity extends AppCompatActivity {
         sumTextView.setText("");
         timer();
         points.setText("0/0");
+        score=0;
+        numberOfQuessions=0;
+        
     }
     
     
